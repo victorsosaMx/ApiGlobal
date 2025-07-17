@@ -31,8 +31,8 @@ Un controlador proxy robusto y flexible para ASP.NET Core que centraliza y estan
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/api-proxy-controller.git
-cd api-proxy-controller
+git clone https://github.com/victorsosaMx/ApiGlobal.git
+cd ApiGlobal
 ```
 
 2. Instala las dependencias:
