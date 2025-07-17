@@ -312,8 +312,8 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 Si tienes problemas o preguntas:
 
 1. Revisa la [documentación](#-uso)
-2. Busca en [Issues](https://github.com/tu-usuario/api-proxy-controller/issues)
-3. Crea un [nuevo Issue](https://github.com/tu-usuario/api-proxy-controller/issues/new)
+2. Busca en [Issues](https://github.com/VictorSosaMX/ApiGlobal/issues)
+3. Crea un [nuevo Issue](https://github.com/VictorSosaMX/ApiGlobal/issues/new)
 
 ---
 
